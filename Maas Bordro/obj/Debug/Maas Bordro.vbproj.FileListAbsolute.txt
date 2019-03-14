@@ -1,0 +1,26 @@
+C:\Users\user\AppData\Local\Temporary Projects\Maas Bordro\bin\Debug\Maas Bordro.exe
+C:\Users\user\AppData\Local\Temporary Projects\Maas Bordro\bin\Debug\Maas Bordro.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Maas Bordro\bin\Debug\Maas Bordro.xml
+C:\Users\user\AppData\Local\Temporary Projects\Maas Bordro\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\Maas Bordro\obj\Debug\Maas_Bordro.frm1.resources
+C:\Users\user\AppData\Local\Temporary Projects\Maas Bordro\obj\Debug\Maas_Bordro.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Maas Bordro\obj\Debug\Maas Bordro.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\Maas Bordro\obj\Debug\Maas Bordro.exe
+C:\Users\user\AppData\Local\Temporary Projects\Maas Bordro\obj\Debug\Maas Bordro.xml
+C:\Users\user\AppData\Local\Temporary Projects\Maas Bordro\obj\Debug\Maas Bordro.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Maas Bordro\Maas Bordro\obj\Debug\Maas Bordro.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\Maas Bordro\Maas Bordro\obj\Debug\Maas Bordro.xml
+C:\Users\user\Documents\Visual Studio 2008\Projects\Maas Bordro\Maas Bordro\obj\Debug\Maas Bordro.pdb
+C:\Users\user\staj\Maas Bordro\Maas Bordro\obj\Debug\Maas Bordro.exe
+C:\Users\user\staj\Maas Bordro\Maas Bordro\obj\Debug\Maas Bordro.xml
+C:\Users\user\staj\Maas Bordro\Maas Bordro\obj\Debug\Maas Bordro.pdb
+C:\Users\user\staj\Maas Bordro\Maas Bordro\bin\Debug\Maas Bordro.exe
+C:\Users\user\staj\Maas Bordro\Maas Bordro\bin\Debug\Maas Bordro.pdb
+C:\Users\user\staj\Maas Bordro\Maas Bordro\bin\Debug\Maas Bordro.xml
+C:\Users\user\staj\Maas Bordro\Maas Bordro\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\staj\Maas Bordro\Maas Bordro\obj\Debug\Maas_Bordro.frm1.resources
+C:\Users\user\staj\Maas Bordro\Maas Bordro\obj\Debug\Maas_Bordro.Resources.resources
+C:\Users\user\staj\Maas Bordro\Maas Bordro\obj\Debug\Maas Bordro.vbproj.GenerateResource.Cache
+C:\Users\user\staj\Maas Bordro\Maas Bordro\obj\Debug\Maas_Bordro.frm2.resources
+C:\Users\user\staj\Maas Bordro\Maas Bordro\obj\Debug\Maas_Bordro.frm3.resources
+C:\Users\user\staj\Maas Bordro\Maas Bordro\bin\Debug\Maas Bordro.exe.config
